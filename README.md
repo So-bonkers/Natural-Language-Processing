@@ -1,10 +1,10 @@
 # Natural-Language-Processing
 
 ## Topics for ANLP Endsems M22
-* ANNs
+* ANNs - Decision Trees, Perceptrons, SVD, Word2Vec, GloVe 
 * DNNs
 * RNNs
-* LMs
+* LMs - Contextualised representations: ElMo, CoVe
 * LSTMs
 * Attn.
 * Seq2Seq
